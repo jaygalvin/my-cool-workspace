@@ -3,7 +3,7 @@ import os
 from soco import SoCo
 import time
 from netdisco.discovery import NetworkDiscovery
-import urllib2
+import urllib3
 
 netdis = NetworkDiscovery()
 
