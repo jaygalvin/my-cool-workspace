@@ -6,10 +6,10 @@
     "entrypoint": "app"
   },
   "python": {
-    "version": "3.12.3",
+    "version": "3.14.3",
     "package_manager": {
       "name": "pip",
-      "version": "25.2",
+      "version": "26.0",
       "package_file": "requirements.txt"
     }
   },
@@ -20,8 +20,14 @@
     ".gitignore": {
       "checksum": "d4e806f0c77c1a22cb54b461ad0b6849"
     },
+    ".posit/publish/deployments/deployment-103E.toml": {
+      "checksum": "9aa6333fa3cce2b91bade253346af76c"
+    },
+    ".posit/publish/interactive-shiny-D6IP.toml": {
+      "checksum": "b2c5f34b4bc4504dd7d81194e173f6b4"
+    },
     "README.md": {
-      "checksum": "8fdc4f2f50ec3c2ab438b875ef095f37"
+      "checksum": "ff302e2f14360c6e09b2061bf7af0490"
     },
     "app.py": {
       "checksum": "4c6bea046fdd716d2e255f4d0c31592f"
